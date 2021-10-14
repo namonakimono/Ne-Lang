@@ -2,7 +2,7 @@
 
 A New Language.
 
-I call the language Neν because
+The language is given the name Neν because
 
 - It is a new language, as both the last greek letter **ν** and the full name **Neν** (mimicing New) suggests.
 - It does not intend to be a **huge** language which incorporates every modern and fancy feature;
